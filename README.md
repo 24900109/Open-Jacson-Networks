@@ -18,10 +18,15 @@ Visual components and Python
 
 ## Experiment:
 
-
+![image](https://github.com/user-attachments/assets/8eb0a616-0faa-4f5b-a262-c3b452e485a6)
 ## Program
+developed by : Kiruthika.N
 
+reg no : 24900109
 
+![image](https://github.com/user-attachments/assets/8edf5010-9410-41dd-9e2c-5b03ccaf0709)
 ## Output
 
+![WhatsApp Image 2024-12-15 at 10 28 10_c3a02d3c](https://github.com/user-attachments/assets/58659281-49dc-4bc9-a760-dbb36ec43417)
 ## Result
+![image](https://github.com/user-attachments/assets/b3812dbf-f9e1-42af-be1c-76b5c5c81492)
